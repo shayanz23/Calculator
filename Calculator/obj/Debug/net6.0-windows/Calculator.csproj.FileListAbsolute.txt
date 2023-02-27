@@ -57,3 +57,6 @@ C:\Users\Donkey\semester4\Calculator\Calculator\obj\Debug\net6.0-windows\Calcula
 C:\Users\Donkey\semester4\Calculator\Calculator\obj\Debug\net6.0-windows\ref\Calculator.dll
 C:\Users\Donkey\semester4\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.Properties.Resources.resources
 C:\Users\Shayan\semester4\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.Properties.Resources.resources
+C:\Users\dmc\Source\Repos\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.dll
+C:\Users\dmc\Source\Repos\Calculator\Calculator\obj\Debug\net6.0-windows\refint\Calculator.dll
+C:\Users\dmc\Source\Repos\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.pdb

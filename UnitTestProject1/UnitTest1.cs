@@ -8,9 +8,57 @@ namespace UnitTestProject1
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void TestAdditionFunction()
         {
             
+        }
+
+        [TestMethod]
+        public void TestSubtractFunction()
+        {
+
+        }
+
+        [TestMethod]
+        public void TestMultiplyFunction()
+        {
+
+        }
+
+        [TestMethod]
+        public void TestDivideFunction()
+        {
+
+        }
+
+        [TestMethod]
+        public void TestClearFunction()
+        {
+
+        }
+
+        [TestMethod]
+        public void TestMemoryAddFunction()
+        {
+
+        }
+
+        [TestMethod]
+        public void TestMemoryClearFunction()
+        {
+
+        }
+
+        [TestMethod]
+        public void TestMemoryRecallFunction()
+        {
+
+        }
+
+        [TestMethod]
+        public void TestKeyboardFunctionality()
+        {
+
         }
     }
 }
