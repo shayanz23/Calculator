@@ -6,7 +6,7 @@
 /// EXternal Libraries: https://matheval.org/
 /// </summary>
 
-namespace WinFormsApp1
+namespace Calculator
 {
     internal static class Program
     {

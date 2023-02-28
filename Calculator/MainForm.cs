@@ -7,7 +7,7 @@
 /// </summary>
 
 
-namespace WinFormsApp1
+namespace Calculator
 {
     public partial class MainForm : Form
     {

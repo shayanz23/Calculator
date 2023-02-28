@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Donkey\\semester4\\Calculator\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\Donkey\\Calculator\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\Donkey\\semester4\\Calculator\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\Donkey\\Calculator\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\Donkey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Donkey\\semester4\\Calculator\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\Donkey\\Calculator\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Donkey\\AppData\\Roaming\\NuGet\\NuGet.Config",
