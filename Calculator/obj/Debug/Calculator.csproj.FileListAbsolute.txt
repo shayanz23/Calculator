@@ -8,3 +8,13 @@ C:\Users\Donkey\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResour
 C:\Users\Donkey\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\Donkey\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\Donkey\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\dmc\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\dmc\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\dmc\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\dmc\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\dmc\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\dmc\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\dmc\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\dmc\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\dmc\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\dmc\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
