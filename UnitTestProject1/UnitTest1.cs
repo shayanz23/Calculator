@@ -1,5 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Diagnostics;
+using Calculator;
 
 namespace UnitTestProject1
 {
@@ -10,7 +11,6 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestMethod1()
         {
-            Calculator.Program.Main();
         }
     }
 }

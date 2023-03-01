@@ -13,3 +13,7 @@ C:\Users\Donkey\semester4\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1
 C:\Users\Donkey\semester4\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
 C:\Users\Donkey\semester4\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 C:\Users\Donkey\semester4\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Donkey\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\Donkey\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Donkey\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Donkey\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

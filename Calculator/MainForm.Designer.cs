@@ -1,4 +1,6 @@
-﻿namespace Calculator
+﻿using System.Windows.Forms;
+
+namespace Calculator
 {
     partial class MainForm
     {

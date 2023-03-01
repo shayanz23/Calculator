@@ -1,3 +1,11 @@
+﻿
+
+using System.IO;
+using System.Windows.Forms;
+
+
+using System;
+using System.Drawing;
 /// <summary>
 /// Lab 1 Calculator Application 
 /// Author: Shayan Zahedanaraki
@@ -97,6 +105,11 @@ namespace Calculator
                 mainTextBox.SelectionStart = mainTextBox.TextLength;
                 mainTextBox.ScrollToCaret();
             }
+            else
+            {
+                mainTextBox.SelectionStart = 0;
+                mainTextBox.ScrollToCaret();
+            }
         }
 
         /// <summary>
@@ -106,7 +119,7 @@ namespace Calculator
         /// <param name="e"></param>
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Calculator\nVersion: 2\nBy: Shayan Zahedanaraki");
+            MessageBox.Show("Calculator\nVersion: 2.1\nBy: Shayan Zahedanaraki");
         }
 
         /// <summary>
@@ -129,7 +142,7 @@ namespace Calculator
             if (e.KeyCode == Keys.D0)
             {
                 button_0.PerformClick();
-            } 
+            }
             else if (e.KeyCode == Keys.D1)
             {
                 button_1.PerformClick();
